@@ -1,1 +1,42 @@
+body {
+color:white;
+background:rgb(22, 22, 22);
+margin: 0px;
+font-family: "Chakra Petch", sans-serif;
+}
 
+header {
+border-bottom:solid 2px white;
+padding:20px;
+font-size: xx-large;
+color: rgb(255, 255, 255);
+}
+
+section{
+background: rgb(22, 22, 22);
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content: center;
+row-gap: 10px;
+}
+
+h1{
+font-size: 40px;
+
+}
+
+p{
+font-size: 25px;
+}
+h2{padding-top: 30px;
+
+}
+
+img{height: 200px;}
+
+.rec{
+    display: flex;
+    overflow-x: auto;
+    
+}
